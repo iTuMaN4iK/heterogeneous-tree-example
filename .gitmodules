@@ -1,6 +1,6 @@
 [submodule "3rdparty/heterogeneous-tree"]
 	path = 3rdparty/heterogeneous-tree
-	url = git@github.com:iTuMaN4iK/heterogeneous-tree.git
+	url = https://github.com/iTuMaN4iK/heterogeneous-tree.git
 [submodule "3rdparty/CLI11"]
 	path = 3rdparty/CLI11
-	url = git@github.com:CLIUtils/CLI11.git
+	url = https://github.com/CLIUtils/CLI11.git
