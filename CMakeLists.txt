@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.19)
+cmake_minimum_required(VERSION 3.7.2 FATAL_ERROR)
 
 project(heterogeneous_tree_example)
 
